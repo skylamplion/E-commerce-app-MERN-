@@ -1,0 +1,2 @@
+.componemt
+.const-->reducer-->action 
